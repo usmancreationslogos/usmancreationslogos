@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /google362d9f1808a7bfbb.html
+Disallow: /googlebd92bd04d1c671b9.html
+
+Sitemap: https://usmancreationslogos.github.io/usmancreationslogos/sitemap.xml
